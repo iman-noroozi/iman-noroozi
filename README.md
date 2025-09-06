@@ -1,16 +1,12 @@
-## Hi there 👋
+# Iman Noroozi
+- 🧠 Building **PEY AI** — multi-provider AI coding assistant (VS Code + Desktop IDE)
+- 🌐 **PeysunWeb** — Next-gen website builder (40% sales network)
+- ⚙️ **Hermes** — Bot + Dashboard + AI Ops
 
-<!--
-**iman-noroozi/iman-noroozi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Featured Projects
+- 🚀 [PEY AI](https://github.com/iman-noroozi/pey-ai-extension)
+- 🌐 [PeysunWeb](https://github.com/iman-noroozi/PeysunWeb)
+- 🛠 Hermes (bot + dashboard) — (repo link)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Get in touch
+Email • LinkedIn • X • Website
